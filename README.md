@@ -10,4 +10,4 @@
         </br>* cargar info de un archivo .txt
         </br>* guardar cambios en el archivo .txt
 
-
+<img src="./tiendaRopa.png" style="height: 60%; width:60%;"/>
