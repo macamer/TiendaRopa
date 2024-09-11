@@ -1,13 +1,12 @@
 # SECOND HAND
-> Simulación de lo que sería una tienda de ropa con Java.
+> Simulación de lo que sería una tienda de ropa con __Java__.
  
-</br> Se presenta un menu: 
-        </br>* Gestión artículos
-        </br>* gestión usuarios
-        </br>* busca artículo
-        </br>* busca usuarios
-        </br>* hacer un pedido
-        </br>* cargar info de un archivo .txt
-        </br>* guardar cambios en el archivo .txt
+Se presenta un menu con los siguientes puntos
+
+        - Gestión artículos
+        - Gestión usuarios
+        - Busca artículo
+        - Busca usuarios
+        - Hacer un pedido
 
 <img src="./tiendaRopa.png" style="height: 60%; width:60%;"/>
