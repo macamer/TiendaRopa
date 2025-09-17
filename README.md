@@ -1,6 +1,6 @@
-# SECOND HAND · Tienda de segunda mano (Java)
+# SECOND HAND · (JavaFX)
 
-> Simulación de una tienda de ropa de segunda mano desarrollada en **Java (proyecto Ant / NetBeans)**. Incluye un menú de consola para gestionar artículos, usuarios, búsquedas y pedidos.
+> Simulación de una tienda de ropa de segunda mano desarrollada en **Java (proyecto JavaFX / NetBeans)**. Incluye un menú de consola para gestionar artículos, usuarios, búsquedas y pedidos.
 
 ![Pantalla](tiendaRopa.png)
 
