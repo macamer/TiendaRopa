@@ -17,12 +17,12 @@
 
 ## 📁 Estructura del proyecto
 
-TiendaRopa/
-├─ src/ # Código fuente Java
-├─ nbproject/ # Metadatos de NetBeans
-├─ build.xml # Script de compilación Ant
-├─ manifest.mf # Manifest del jar
-├─ tiendaRopa.png # Captura de pantalla
+TiendaRopa/\
+├─ src/ # Código fuente Java\
+├─ nbproject/ # Metadatos de NetBeans\
+├─ build.xml # Script de compilación Ant\
+├─ manifest.mf # Manifest del jar\
+├─ tiendaRopa.png # Captura de pantalla\
 └─ README.md
 
 ## 🧰 Requisitos
